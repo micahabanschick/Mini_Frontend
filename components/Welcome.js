@@ -1,5 +1,4 @@
 import React from 'react'
-import Slideshow from './Slideshow'
 
 const Welcome = (props) => {
 
@@ -18,7 +17,6 @@ const Welcome = (props) => {
         
       {
       }
-      <Slideshow/>
     </div>
   )
 
