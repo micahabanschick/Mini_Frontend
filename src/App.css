@@ -1,5 +1,21 @@
+:root {
+  /* CSS HSL */
+--melon: hsla(9, 97%, 86%, 1);
+--pale-pink: hsla(9, 88%, 90%, 1);
+--misty-rose: hsla(8, 74%, 92%, 1);
+--isabelline: hsla(9, 48%, 95%, 1);
+--platinum: hsla(60, 8%, 90%, 1);
+--alabaster: hsla(144, 15%, 87%, 1);
+--linen: hsla(32, 31%, 89%, 1);
+--champagne-pink: hsla(19, 100%, 93%, 1);
+--peach-puff: hsla(25, 100%, 86%, 1);
+--peach-crayola: hsla(28, 98%, 80%, 1);
+}
+
 .App {
   text-align: center;
+  background: var(--melon);
+  min-height: 100vh;
 }
 
 .App-logo {
