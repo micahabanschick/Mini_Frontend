@@ -8,16 +8,32 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1>sdfsdfsdfsfsd</h1>
+          <h1>Header</h1>
+          <nav className="App-nav">Nav</nav>
         </header>
         <section className="App-light-section">
-          <h1>sdfsdfsdfsfsd</h1>
+          <h1>Light Section</h1>
+          <article className="App-dark-article">
+            <h1>Dark Article</h1>
+          </article>
         </section>
         <section className="App-dark-section">
-          <h1>sdfsdfsdfsfsd</h1>
+          <h1>Dark Section</h1>
+          <article className="App-light-article">
+            <h1>Light Article</h1>
+          </article>
         </section>
         <section className="App-light-section">
-          <h1>sdfsdfsdfsfsd</h1>
+          <h1>Light Section</h1>
+          <article className="App-dark-article">
+            <h1>Dark Article</h1>
+          </article>
+        </section>
+        <section className="App-dark-section">
+          <h1>Dark Section</h1>
+          <article className="App-light-article">
+            <h1>Light Article</h1>
+          </article>
         </section>
         <h1>Inside App</h1>
         <h1>Outside and After UsersContainer</h1>
