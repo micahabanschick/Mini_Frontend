@@ -88,21 +88,26 @@
 
 .App-dark-article, .App-light-article {
   position: relative;
-  max-width: 40%;
+  /* max-width: 10%; */
+  min-height: 30vh;
   /* max-height: 40%; */
   font-size: calc(10px + 2vmin);
+  border-style:groove;
+  border-width: 1vh;
 }
 
 .App-light-article {
   background: var(--light-shade-2);
   color: var(--dark-shade-1);
   font-size: calc(10px + 2vmin);
+  border-color: var(--main);
 }
 
 .App-dark-article {
   background: var(--dark-shade-2);
   color: var(--light-shade-1);
   font-size: calc(10px + 2vmin);
+  border-color: var(--main);
 }
 
                                                                                                                                                     /* 5: NAVIGATION */
