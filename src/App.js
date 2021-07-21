@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Section from './components/section'
+import Article from './components/article'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
@@ -15,6 +16,7 @@ class App extends Component {
         <Section/>
         <section className="App-light-section">
           <h1>Light Section</h1>
+          <Article/>
           <article className="App-dark-article">
             <h1>Dark Article</h1>
           </article>
