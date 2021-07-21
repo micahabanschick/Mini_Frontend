@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import Section from './components/section'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
@@ -11,6 +12,7 @@ class App extends Component {
           <h1>Header</h1>
           <nav className="App-nav">Nav</nav>
         </header>
+        <Section/>
         <section className="App-light-section">
           <h1>Light Section</h1>
           <article className="App-dark-article">
