@@ -10,5 +10,6 @@ _ _ project reducer
 _ _ red
 _ _ shades
 _ _ figure
-_ _ red
-_ _ red
+_ _ awesum
+_ _ incontact
+_ _ portfolio
