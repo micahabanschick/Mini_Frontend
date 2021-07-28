@@ -8,7 +8,7 @@ _ _ project reducer
 # Style
 
 _ _ red
-_ _ red
+_ _ shades
 _ _ red
 _ _ red
 _ _ red
