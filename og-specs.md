@@ -5,7 +5,7 @@ _ _ project
 _ _ project action
 _ _ project reducer 
 
-# new step
+# Style
 
 _ _ red
 _ _ red
