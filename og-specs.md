@@ -12,4 +12,4 @@ _ _ shades
 _ _ figure
 _ _ awesum
 _ _ incontact
-_ _ portfoliog
+_ _ portfolio
